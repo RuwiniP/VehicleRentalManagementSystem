@@ -12,4 +12,9 @@ Project contains 6 classes including the Program.cs.
 
 ## Setup Instructions
 
+Use the below to clone the project.
+
+~~~
+git clone https://github.com/RuwiniP/VehicleRentalManagementSystem.git
+~~~
 
