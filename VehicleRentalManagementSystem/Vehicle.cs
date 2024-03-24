@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VehicleRentalManagementSystem
 {
-    internal class Vehicle
+    public class Vehicle
     {
         // Base class properties
         private string Model { get; set; }
